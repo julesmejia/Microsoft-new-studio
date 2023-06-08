@@ -18,9 +18,9 @@ For the purposes of this project, I will focus on insights regarding Playing The
 The data being used for this analysis have been gathered from well-known websites IMDb, Rotten Tomatoes and TMDB. Each website collects a large amount of information regarding movies in their own way including financial data, review scores and genre. Casting a wide net of data sets will provide a balanced insight, reflective of a big population given the size of the movie industry.
 
 <div style="width: 100%;">
-  <img src="C:\Users\jules\OneDrive\Desktop\Academy Xi\Phase 1 Project\Submission\Microsoft-new-studio\images\IMDB_Logo_2016.svg.png" alt="IMDB" style="max-width: 30%;">
-  <img src="C:\Users\jules\OneDrive\Desktop\Academy Xi\Phase 1 Project\Submission\Microsoft-new-studio\images\Rotten_Tomatoes_logo.svg.png" alt="RottenTomatoes" style="max-width: 30%;">
-  <img src="C:\Users\jules\OneDrive\Desktop\Academy Xi\Phase 1 Project\Submission\Microsoft-new-studio\images\512px-Tmdb.new.logo.svg.png" alt="TMDB" style="max-width: 30%;">
+  <img src="images/IMDB_Logo_2016.svg.png" alt="IMDB" style="max-width: 30%;">
+  <img src="images/Rotten_Tomatoes_logo.svg.png" alt="RottenTomatoes" style="max-width: 30%;">
+  <img src="images/512px-Tmdb.new.logo.svg.png" alt="TMDB" style="max-width: 30%;">
 </div>
 
 ## Data Preparation
