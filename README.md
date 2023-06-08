@@ -3,7 +3,7 @@
 ## Overview
 This project is an opportunity to apply the concepts and techniques learned in Phase 1 with real world data. Through data analysis, this report will generate 3 key insights that will aid in the decision making of Microsoft's new movie studio. It is important to communicate visually and provide context to help Microsoft understand the large amount of data that is available to them. Finally, I will provide a recommendation based on the analysis I have generated.	
 
-![Movie Studio](images\What-does-a-film-studio-do.jpg)
+![Movie Studio](images/What-does-a-film-studio-do.jpg)
 ## Business Problem
 Microsoft is exploring options to expand the services they provide. Given the success of other large corporate competitors in the video content space, Microsoft have decided to open their own movie studio. Given the lack of experience in an industry dominated by well-established brands, it is important to identify key metrics that Microsoft can build upon. A strong understanding of these metrics will help the studio choose a direction for success.
 
@@ -36,13 +36,13 @@ For my evaluation, I want to identify the top 3 performing genres for each insig
 
 ### Insight 1
 
-![gross_genre](Visualisations\gross_genre.png)
+![gross_genre](Visualisations/gross_genre.png)
 
 I specifically chose to order this bar graph by highest grossing to least grossing because it would be an easy way to identify the top genres. The top 3 by worldwide gross are **Drama, Adventure and Action**. I have also included the Domestic and Foreign and Gross numbers because it is important to note that the movie being produced should reach a global audience. For every genre, Foreign gross numbers were greater than the Domestic gross numbers. A movie that appeals to both the domestic and foreign audience can go a long way into the final gross numbers
 
 ### Insight 2
 
-![profit_ptc_avg](Visualisations\profit_ptc_avg.png)
+![profit_ptc_avg](Visualisations/profit_ptc_avg.png)
 
 Budget plays a big part in the production of a movie. Ideally, Microsoft would not like to pour funds into a movie that could end up making a net loss. In order to identify, I modelled two graphs to identify the relationshop between budget and the profitability for each genre.
 
@@ -56,7 +56,7 @@ For the Average Amount of Profit graph, the top 3 genres are **Musical, Animatio
 
 ### Insight 3
 
-![avg_rating_gross](Visualisations\avg_rating_gross.png)
+![avg_rating_gross](Visualisations/avg_rating_gross.png)
 
 One way to support the strong sales displayed in the Top Gross graph and generate long term success is through ratings. Audiences will use ratings as part of their decision making for watching a movie. Generating well rated movies could generate new/repeat viewers (meaning more gross/profit). The Average Gross Vs Average Rating graph helps identify which genres do both well and the top 3 are **Musicals, Adventure and Animation**.
 
